@@ -1,5 +1,0 @@
-DELETE FROM `pokestarters` WHERE `pokemon_name` = 'Pikachu';
-INSERT INTO `pokestarters`(`pokemon_id`, `pokemon_name`, `type`) VALUES (1,'Pikachu','Electric');
-INSERT INTO `poke_number`(`poke_num_id`, `pokestarters_id`, `trainer_id`) VALUES (1,1,1);
-INSERT INTO `trainer`(`trainer_id`, `trainer_name`, `pokemon_id`) VALUES (1,'Ash',1);
-UPDATE `pokestart`.`pokestarters` SET `pokemon_name` = 'Charmander' WHERE `pokestarters`.`pokemon_id` = 2;
