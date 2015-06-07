@@ -6,7 +6,7 @@ public class PokeCombine {
 	@Test
 	public void testCombine(){
 		PokeJUnit test = new PokeJUnit();
-		String result = test.combine("Pika");
-		assertEquals("Pikachu",result+"chu");
+		String result = test.combine("Pika", "chu");
+		assertEquals("Pikachu",result);
 	}
 }
