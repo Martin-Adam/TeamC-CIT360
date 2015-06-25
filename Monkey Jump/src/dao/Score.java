@@ -11,6 +11,7 @@ public class Score
 {
 public String Insertscore(Connection connection, HttpServletRequest request,
 HttpServletResponse response) throws Exception {
+	return null;
 // Previous Post
 }
 
@@ -34,6 +35,13 @@ catch(Exception e)
 {
 throw e;
 }
+}
+
+public ArrayList GetScoress(Connection connection,
+		HttpServletRequest request,
+		HttpServletResponse response) {
+	// TODO Auto-generated method stub
+	return null;
 }
 
 }

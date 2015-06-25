@@ -11,6 +11,7 @@ import dto.ScoreBoard;
 public class ScoreDB {
 public String InsertScore(Connection connection, HttpServletRequest request,
 HttpServletResponse response) throws Exception {
+	return null;
 //Previous Post
 }
 
