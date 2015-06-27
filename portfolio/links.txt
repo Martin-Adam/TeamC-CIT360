@@ -4,6 +4,35 @@ https://plus.google.com/114843095884398195446/posts/Nass5dNaQtD
 Share Code 1:
 https://plus.google.com/104535166533094508203/posts/Ayr8dofwqxf
 Adam - hibernate 0-9:06
-Josiah - 9:25-14:50
-Jonathan - 15:18-18:50, 27:03-29:00,30:50-31:30 connection problems
-Jermey - 21:48-26:36
+Josiah - Collections 9:25-14:50
+Jonathan - Socket 15:18-18:50, 27:03-29:00,30:50-31:30 connection problems
+Jeremy - JSON 21:48-26:36
+
+Share Code 2:
+https://www.youtube.com/watch?v=tzq2XG-WLZk
+Josiah - Android HTTP 0:27-3:05
+Jeremy - MVC 3:10-5:33
+Adam - JUNIT 6:00 - 9:35
+
+Share Code 3:
+https://www.youtube.com/watch?v=ppyK_W5ZGTo
+Adam - Collections 0:00-4:30 (sadly looks like I recorded it wrong, at least I explain it)
+Jeremy - UML 5:47 - 14:27
+
+Share Code 4:
+https://www.youtube.com/watch?v=SSoXQvm__CU
+Jeremy - Parallel 0:35 - 6:52
+Adam - 7:44-12:30
+
+Share Code 5:
+https://www.youtube.com/watch?v=owFXbZNYu94
+Adam - HTTP 0:00-3:27
+Josiah - 3:33 - 9:10 (Adam tried to share code on his screen since josiah loses connection in doing so, but forgot to focus screen)
+Jeremy - Monkey Jump - 9:13 - 13:40
+
+Share Code 6:
+https://www.youtube.com/watch?v=2dBUb6hxbAA
+Adam - MVC 0:00-1:22
+Josiah - Monkey Jump - 1:40-4:05
+Jeremy - Monkey Jump - 4:20 - 5:49
+       - Git Hub 5:50 - 10:34
