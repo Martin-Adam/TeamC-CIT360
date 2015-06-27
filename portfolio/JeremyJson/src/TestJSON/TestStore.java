@@ -1,7 +1,7 @@
 package TestJSON;
 
 import java.io.Serializable;
-//this is the bean
+// set the main object to be manipulated which will store the JSON
 public class TestStore implements Serializable {
 	private String answer;
 	

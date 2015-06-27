@@ -10,15 +10,16 @@ import org.quickconnectfamily.json.JSONInputStream;
 import org.quickconnectfamily.json.JSONOutputStream;
 
 public class TestFile {
+	// set a funtion to read the file imported
 	public void readFile(TestStore answer){
 		try {
-            
+            // pulls in the JSON text
             FileInputStream testName = new FileInputStream(answer.getTestName() + ".txt");
-            
+            // sets as JSON to be read
             JSONInputStream readFile = new JSONInputStream(testName);
             
             Object stats = readFile.readObject();
-            
+            // maps the input to organize it for easy access
             HashMap testMap = (HashMap) stats;
             
             System.out.println("The answer to the question is: " 
@@ -31,6 +32,7 @@ public class TestFile {
             
         }
 	}
+	// write file to local storage
 	public void writeFile(TestStore answer) throws Exception{
 		HashMap<String, Comparable> testMap = new HashMap();
 		testMap.put("Answer:", answer.getTestName());
