@@ -27,7 +27,7 @@ Adam - JSON 7:44-12:30
 Share Code 5:
 https://www.youtube.com/watch?v=owFXbZNYu94
 Adam - HTTP 0:00-3:27
-Josiah - 3:33 - 9:10 (Adam tried to share code on his screen since josiah loses connection in doing so, but forgot to focus screen)
+Josiah - Hibernate 3:33 - 9:10 (Adam tried to share code on his screen since josiah loses connection in doing so, but forgot to focus screen)
 Jeremy - Monkey Jump - 9:13 - 13:40
 
 Share Code 6:
