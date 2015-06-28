@@ -36,3 +36,13 @@ Adam - MVC 0:00-1:22
 Josiah - Monkey Jump - 1:40-4:05
 Jeremy - Monkey Jump - 4:20 - 5:49
        - Git Hub 5:50 - 10:34
+
+Share Code 7:
+https://www.youtube.com/watch?v=v8xFPnMWd-4
+Jermey - Socket 0:37 - 1:50
+       - JUNIT 1:52 - 3:07
+       - JSON 3:08 - 3:49
+       - HTTP 3:49 - 5:15
+       - in progress: 0:00-0:37 & 5:15-5:50
+Josiah - JUNIT 6:20-8:20
+Adam - Socket 8:38 - 12:35
