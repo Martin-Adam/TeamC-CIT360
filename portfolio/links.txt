@@ -46,3 +46,15 @@ Jermey - Socket 0:37 - 1:50
        - in progress: 0:00-0:37 & 5:15-5:50
 Josiah - JUNIT 6:20-8:20
 Adam - Socket 8:38 - 12:35
+
+Last Share code:
+https://www.youtube.com/watch?v=DcFM93mBcZ8
+Josiah - Threads 0:19-1:40
+       - Sockets 1:50-3:19
+       - UML 3:28-6:35
+Adam - UML 7:10-8:30 (didnt share screen right)
+       Need draw.io Pro
+       UML Class https://drive.google.com/file/d/0B8RKV1ISvEHudEU1ak96XzN4YU0/view?usp=sharing
+       UML Sequence https://drive.google.com/file/d/0B8RKV1ISvEHuS2lnS3pLWTRuNFU/view?usp=sharing
+       UML State https://drive.google.com/file/d/0B8RKV1ISvEHubVZEcmhHSzlhVkU/view?usp=sharing
+       
